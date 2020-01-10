@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyCS
 
 [![CI Status](https://img.shields.io/travis/lxllzwj@126.com/MyCS.svg?style=flat)](https://travis-ci.org/lxllzwj@126.com/MyCS)
@@ -27,3 +28,6 @@ lxllzwj@126.com, javalipengfei@163.com
 ## License
 
 MyCS is available under the MIT license. See the LICENSE file for more info.
+=======
+# LeeCode
+>>>>>>> a35e72f499b5300bfedd1db18ef484a1d7a9882c
