@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MyCS_Example' do
+  pod 'MyCS', :path => '../'
+
+  target 'MyCS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
