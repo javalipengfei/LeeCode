@@ -1,0 +1,6 @@
+framework module Pods_MyCS_Tests {
+  umbrella header "Pods-MyCS_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

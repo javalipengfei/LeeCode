@@ -1,0 +1,22 @@
+{
+  "name": "MyCS",
+  "version": "0.1.0",
+  "summary": "A short description of MyCS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lxllzwj@126.com/MyCS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lxllzwj@126.com": "javalipengfei@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lxllzwj@126.com/MyCS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyCS/Classes/**/*"
+}

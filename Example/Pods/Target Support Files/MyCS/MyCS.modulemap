@@ -1,0 +1,6 @@
+framework module MyCS {
+  umbrella header "MyCS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - MyCS (0.1.0)
+
+DEPENDENCIES:
+  - MyCS (from `../`)
+
+EXTERNAL SOURCES:
+  MyCS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyCS: 2c75bc09f26b4c4500a7bde1b47f79b5178e80c0
+
+PODFILE CHECKSUM: 12c75d392fd87e8bb16bc2da02912ea7ec5fe025
+
+COCOAPODS: 1.8.4
